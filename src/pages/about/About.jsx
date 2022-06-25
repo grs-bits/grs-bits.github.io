@@ -18,7 +18,7 @@ export const About = () => {
         </p>
         <h4 className="aboutSubhead">Milstones Covered</h4>
         <p>
-          gandhi rachnatmak samiti
+          this is a organisation website
         </p>
       </div>
       <Sidebar />
