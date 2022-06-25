@@ -14,19 +14,11 @@ export const About = () => {
         <br />
         <h4 className="aboutSubhead">How it started</h4>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus et
-          amet atque reiciendis accusantium fugit, recusandae quia quo tempora
-          soluta, ut rem maiores voluptatem voluptatibus neque voluptas esse
-          deleniti perferendis.
+         this is grs website
         </p>
         <h4 className="aboutSubhead">Milstones Covered</h4>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis tempore
-          incidunt a voluptas libero explicabo at vitae, possimus tenetur dicta,
-          neque illo quae enim soluta? A commodi asperiores aliquam velit? Lorem
-          ipsum dolor sit amet consectetur adipisicing elit. Vero saepe impedit
-          pariatur aliquid voluptas, eius explicabo veniam nihil rem ratione
-          porro enim aspernatur nisi eaque corrupti id architecto doloribus et.
+          this is website
         </p>
       </div>
       <Sidebar />
