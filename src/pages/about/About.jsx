@@ -14,7 +14,7 @@ export const About = () => {
         <br />
         <h4 className="aboutSubhead">How it started</h4>
         <p>
-         this is grs website
+         This website is great! hurrey
         </p>
         <h4 className="aboutSubhead">Milstones Covered</h4>
         <p>
