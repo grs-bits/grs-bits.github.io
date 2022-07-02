@@ -34,5 +34,5 @@ export default function Post({img}) {
       the first post of grs is amazing
       </p>
     </div>
-  );
+  )
 }
