@@ -31,7 +31,7 @@ export default function Post({img}) {
         <span className="postDate">1 hour ago</span>
       </div>
       <p className="postDesc">
-      One of the best post ever
+      the first post of grs is amazing
       </p>
     </div>
   );
