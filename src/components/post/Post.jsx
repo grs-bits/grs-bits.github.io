@@ -24,14 +24,15 @@ export default function Post({img}) {
         </div>
         <span className="postTitle">
           <Link to="/post/abc" className="link">
-            Lorem ipsum dolor sit amet
+            Nice post
           </Link>
         </span>
         <hr />
         <span className="postDate">1 hour ago</span>
       </div>
       <p className="postDesc">
-      the first post of grs is amazing
+
+      Best post ever
       </p>
     </div>
   )
