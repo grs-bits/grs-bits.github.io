@@ -34,5 +34,5 @@ export default function Post({img}) {
       One of the best post ever
       </p>
     </div>
-  );
+  )
 }
