@@ -29,7 +29,7 @@ export default function SinglePost() {
           <span>1 day ago</span>
         </div>
         <p className="singlePostDesc">
-          Congratulations and welcome to this beautiful website
+          Congratulations!!!
 
           <br />
           <br />
