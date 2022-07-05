@@ -11,7 +11,7 @@ export default function SinglePost() {
           alt=""
         />
         <h1 className="singlePostTitle">
-          Lorem ipsum dolor
+          masters in chemistry
           <div className="singlePostEdit">
             <i className="singlePostIcon far fa-edit"></i>
             <i className="singlePostIcon far fa-trash-alt"></i>
@@ -22,14 +22,14 @@ export default function SinglePost() {
             Author:
             <b className="singlePostAuthor">
               <Link className="link" to="/posts?username=Safak">
-                Safak
+                mr bean
               </Link>
             </b>
           </span>
           <span>1 day ago</span>
         </div>
         <p className="singlePostDesc">
-          Congratulations!!!
+          This is the best website ever!!!
 
           <br />
           <br />
